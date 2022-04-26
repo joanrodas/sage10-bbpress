@@ -1,0 +1,20 @@
+{
+    "name": "joanrodas/sage10-bbpress",
+    "description": "bbPress compatibility with Sage 10 blade templates and composers",
+    "type": "library",
+    "homepage": "https://github.com/joanrodas/sage10-bbpress",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+          "name": "Joan Rodas Cusidó",
+          "email": "joan@sirvelia.com",
+          "homepage": "https://sirvelia.com",
+          "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/bbpress-compat.php"
+        ]
+    }
+}
